@@ -1,0 +1,19 @@
+.product-description {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.image-div {
+  width: 48%;
+  padding: 10px;
+  margin-right: 10px;
+}
+.image-div img {
+  text-align: center;
+  width: 100%;
+}
+.info-div {
+  width: 48%;
+  padding: 10px;
+}
